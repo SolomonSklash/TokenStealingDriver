@@ -1,0 +1,8 @@
+﻿  Building 'TestingDriver' with toolset 'WindowsKernelModeDriver10.0' and the 'Desktop' target platform.
+  DriverEntry.cpp
+  TestingDriver.vcxproj -> F:\TestingDriver\x64\Debug\TestingDriver.sys
+  Done Adding Additional Store
+  Successfully signed: F:\TestingDriver\x64\Debug\TestingDriver.sys
+  
+  Inf2Cat task was skipped as there were no inf files to process
+  
